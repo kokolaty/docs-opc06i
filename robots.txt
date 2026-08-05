@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-x3j1pe.facilityfloor.com.br/sitemap.xml
